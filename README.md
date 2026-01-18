@@ -5,7 +5,7 @@ A little project that I made for me and my friends like Discord.
 
 ## Work status
 In development still, when it does release it will be invite-only until I can pay for a service like this and take it seriously (if I do.)
-Detailed stuffs will be in the blog.
+Detailed stuffs will be in the [blog.](https://blog.goawesome.chat)
 
 ## Compatibility
 I am working hard to try to get this pushed out to web as of right now. After that I can start working on the iOS version and Android version.
@@ -13,7 +13,7 @@ I am working hard to try to get this pushed out to web as of right now. After th
 ## (Non) Frequently asked questions
 
 ### I can't log into this?
-As of right now, the service is invite only to my friends to keep down costs. If you would like to try it out for a bit, ping me @hzlstr on Discord, I can lend you a code there.
+As of right now, the service is invite only to my friends to keep down costs. If you would like to try it out for a bit, add me or send me a message request @hzlstr on Discord, I can lend you a code there.
 
 ### When is it going to come out?
 I cannot guarentee a release date as of right now due to
