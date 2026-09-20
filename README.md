@@ -1,7 +1,8 @@
-<img width="250" height="250" alt="awesomechat" src="https://github.com/user-attachments/assets/7cdfc2b0-650a-4066-aad3-4cd8fd8f16ca" />
+<img width="861" height="193" alt="Screenshot 2026-09-20 at 12 46 41 PM" src="https://github.com/user-attachments/assets/2b27f791-db26-408c-a149-ffabc53e35d6" />
 
 # awesomechat
 A little project that I made for me and my friends like Discord.
+
 
 ## Work status
 In development still, when it does release it will be invite-only until I can pay for a service like this and take it seriously (if I do.)
