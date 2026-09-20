@@ -5,27 +5,15 @@ A little project that I made for me and my friends like Discord.
 
 
 ## Work status
-In development still, when it does release it will be invite-only until I can pay for a service like this and take it seriously (if I do.)
-Detailed stuffs will be in the [blog.](https://blog.goawesome.chat)
+v1.0 is out! Working on mobile version.
 
 ## Compatibility
-I am working hard to try to get this pushed out to web as of right now. After that I can start working on the iOS version and Android version.
+Windows & Mac OS, working on iOS & Android.
 
 ## (Non) Frequently asked questions
 
 ### When is it going to come out?
-I cannot guarentee a release date as of right now due to
-#### I legit almost never finish any project.
-This has been in my head since 5th grade. I am a freshman in high school as of typing this.
-#### Personal stuff.
-Sometimes I cannot reach my laptop for periods of time, that hurts development a lot. A day missing could have been a day updating code.
-#### School.
-title.
-
-While I cannot guarentee a solid date, I am expecting for this to release at least ~~this month~~ if all goes well.
-
-DEAR GOD. Hi, future Inter here, it's been a solid 8 months. I just came back to this and is working fully on it.
-I am actually working on this right now and actually it might come out this week (v1.0) because i'm making actually really good progress on it.
+Fuck you it's out boi
 
 ### How can I contribute?
 I am eternally grateful for your support and interest in this project. As of right now, you can contribute to this project by donating at my [Ko-fi page.](https://ko-fi.com/intergalaxity)
